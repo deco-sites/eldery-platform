@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://eldery-platform-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "db0b6a0a82be386ef99874c1e9d85d07c252d45bc2eea342aa5f8cf9b59f90aab6748b9535c198002570c9d78d22832a9038a213b4f44692602b7c7dbac81d3d61ef7c823b8a7d4451b452184058d583636a62e4fc7e1a83d3d0c6241686a3d92a72ccec3d72dbd272853e36dac71367969da0f769e11216b5fe55cacefac2df3a2a33f8e386ef46a840b0f1ab552e37c19ba000c55b6c188cef6e000b637627421cf8a8849ae54e5d5b5078e40d2bf7fb3f91852e63a0141bf63eb6960dcc4f5874893ffeffd8ea73fc82b07e3b0b77336f9f576711f2ff0c3586dbf2022fb7"
+  }
+}
